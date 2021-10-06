@@ -6,7 +6,7 @@ import Constants from 'expo-constants' //used instead of SafeArea
 const Item = (props) =>{
  return(
    <View>
-     <Text>{props.id}</Text>
+     <Text>{props.text}</Text>
    </View>
  )
 }
