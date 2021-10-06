@@ -13,9 +13,9 @@ const Item = (props) =>{
 
 export default function App() {
 
-  //Flat list
+  //Flatlist
   const AppData = [
-    //JSON objects with 2 keys(id and name)
+    //JSON objects with 2 keys (id and name)
     {id: "1", name: "Tacos"},
     {id: "2", name: "Tortillas"},
     {id: "3", name: "Burrito"},
